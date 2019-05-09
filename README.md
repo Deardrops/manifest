@@ -1,5 +1,6 @@
 ## 使用repo管理github项目例子
 
+repo test
 #1、安装repo
 `mkdir ~/bin`
 
